@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Production v1.0 > Bugfix v1.5
-=======
-Production v1.0 > Production v2.0
->>>>>>> enh
+
+Production v1.0 > Bugfix v1.5 
+Production v1.0 > Production v2.0 > Nall 2.6
